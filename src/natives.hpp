@@ -1,3 +1,5 @@
+#pragma once
+
 #include <cstring>
 #include <string>
 
@@ -11,6 +13,9 @@
 
 #include "common.hpp"
 #include <fstream>
+#include <fstream>
+#include <string>
+#include <cstring>
 
 
 namespace Natives {
